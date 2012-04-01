@@ -1,0 +1,7 @@
+La idea basica es demostrar las ventajas de usar patrones de diseño, y motivar a los asistentes a que propongan nuevas soluciones tomando este código como ejemplo y agregando requerimientos.
+
+"Ejemplo2" es, en esencia, "Ejemplo1" utilizando un Factory, Singleton y creando la estructura de objetos IShape (Interfaz Shape, Forma) implementada por un cuadrado-rectángulo, triángulo y círculo. 
+
+Se puede, por ejemplo, solicitar que se cree un Facade que englobe el seteo de los lados y la obtención del área como tal. O introducir un requerimiento de obtención de volúmen para poner un patrón de puente... En fin. Dependerá mucho del nivel técnico de las personas en cuestión.
+
+La presentación que usé para este taller-plática está disponible en http://prezi.com/bzm1grsih07e/patrones-de-diseno/ .
